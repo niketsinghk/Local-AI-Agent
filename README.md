@@ -16,8 +16,8 @@ This project is a local AI-powered chatbot that answers customer questions about
 
 ## Create and activate virtual environment
 
- 1.python -m venv venv
- 2.venv\Scripts\activate 
+ 1.python -m venv venv.
+ 2.venv\Scripts\activate.
 
 ## Install dependencies
 
@@ -25,5 +25,5 @@ pip install -r requirements.txt
 
 ## Make sure Ollama is installed
 
-1.ollama pull llama3.2
-2.ollama pull mxbai-embed-large
+1.ollama pull llama3.2.
+2.ollama pull mxbai-embed-large.
